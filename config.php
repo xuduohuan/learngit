@@ -3,20 +3,6 @@ defined('IN_IA') or exit('Access Denied');
 
 $config = array();
 
-
-
-/*
-$config['db']['master']['host'] = '127.0.0.1';
-$config['db']['master']['username'] = 'root';
-$config['db']['master']['password'] = 'root';
-$config['db']['master']['port'] = '3306';
-$config['db']['master']['database'] = 'weiqing';
-$config['db']['master']['charset'] = 'utf8';
-$config['db']['master']['pconnect'] = 0;
-$config['db']['master']['tablepre'] = 'ims_';
-*/
-
-
 $config['db']['master']['host'] = '123.56.122.209';
 $config['db']['master']['username'] = 'lixu_81';
 $config['db']['master']['password'] = '123456';
