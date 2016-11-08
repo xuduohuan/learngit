@@ -1,6 +1,6 @@
 <?php
 defined('IN_IA') or exit('Access Denied');
-
+1123;
 $config = array();
 
 $config['db']['master']['host'] = '123.56.122.209';
